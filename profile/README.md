@@ -17,4 +17,4 @@ Learn more about FAO and our initiatives on our [official website](https://www.f
 ## Contact Us
  
 For inquiries or additional information about our projects, reach out at:  
-**Email:** sdlc-support@fao.org
+**Email:** sdlc-support-list@fao.org
