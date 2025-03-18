@@ -1,6 +1,6 @@
 # FAO on GitHub
  
-Welcome to the FAO GitHub. Our goal is to drive secure, reliable, and compliant development practices in support of FAO's global mandate.
+Welcome to the FAO GitHub account. Our goal is to drive secure, reliable, and compliant development practices in support of FAO's global mandate.
  
 ## Our Mission
  
