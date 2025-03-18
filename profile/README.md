@@ -1,6 +1,6 @@
 # FAO on GitHub
  
-Welcome to the FAO GitHub. Best Practices repository! This project, guidelines, and resources are designed to help teams embed security into every stage of their DevOps lifecycle. Our goal is to drive secure, reliable, and compliant development practices in support of FAO's global mandate.
+Welcome to the FAO GitHub. Our goal is to drive secure, reliable, and compliant development practices in support of FAO's global mandate.
  
 ## Our Mission
  
