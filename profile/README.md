@@ -7,13 +7,12 @@ FAO leads international efforts to defeat hunger and achieve food security for a
 
 We invite you to explore our repositories. Here you'll find projects ranging from data analysis tools and information systems to mobile applications and modeling frameworks, all developed by dedicated teams within FAO to support our mandate.
 
-
-Learn More:
+## Learn More:
 
 To learn more about the Food and Agriculture Organization of the United Nations and our global efforts, please visit our main website: https://www.fao.org
 
 
-Contact Us:
+## Contact Us:
  
 For inquiries or additional information about our projects, reach out at:  
 **Email:** sdlc-support-list@fao.org
