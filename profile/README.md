@@ -1,20 +1,21 @@
-# FAO on GitHub
- 
-Welcome to the FAO GitHub account. Our goal is to drive secure, reliable, and compliant development practices in support of FAO's global mandate.
- 
-## Our Mission
- 
-At FAO, our mission is to achieve food security and sustainable agricultural development by integrating robust security practices into our technology and operations. By adopting a "security by design" mindset, we strive to:
- 
-- **Embed Security Early:** Integrate security considerations from the planning phase.
-- **Automate Testing:** Leverage automated security testing and vulnerability scanning.
-- **Ensure Continuous Monitoring:** Implement real-time monitoring and logging for threat detection.
-- **Promote Collaboration:** Encourage cross-team dialogue and shared responsibility for security.
-- **Maintain Compliance:** Adhere to industry standards and regulatory requirements.
- 
-Learn more about FAO and our initiatives on our [official website](https://www.fao.org/home/es).
- 
-## Contact Us
+# Welcome to the FAO GitHub!
+Bienvenue! Bienvenido! 欢迎! Добро пожаловать! مرحباً!
+
+Welcome to the official public GitHub account of the Food and Agriculture Organization of the United Nations (FAO).
+
+FAO leads international efforts to defeat hunger and achieve food security for all. Our core mission is to support the transformation to MORE efficient, inclusive, resilient, and sustainable agrifood systems for better production, better nutrition, better environment, and a better life, leaving no one behind.   
+
+We invite you to explore our repositories. Here you'll find projects ranging from data analysis tools and information systems to mobile applications and modeling frameworks, all developed by dedicated teams within FAO to support our mandate.
+
+
+Learn More:
+
+To learn more about the Food and Agriculture Organization of the United Nations and our global efforts, please visit our main website: https://www.fao.org
+
+
+Contact Us:
  
 For inquiries or additional information about our projects, reach out at:  
 **Email:** sdlc-support-list@fao.org
+
+Thank you for visiting!
