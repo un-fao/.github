@@ -11,6 +11,10 @@ We invite you to explore our repositories. Here you'll find projects ranging fro
 
 To learn more about the Food and Agriculture Organization of the United Nations and our global efforts, please visit our main website: https://www.fao.org
 
+## FAO's GitHub Access:
+
+If your GitHub access has been removed due to inactivity or license cleanup, you can restore it by signing in via **FAO Single Sign-On (SSO)**:  
+[Restore Access via SSO](https://github.com/orgs/un-fao/sso)
 
 ## Contact Us:
  
