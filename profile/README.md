@@ -1,7 +1,7 @@
 # Welcome to the FAO GitHub!
 **Bienvenue! Bienvenido! 欢迎! Добро пожаловать! مرحباً!**
 
-![FAO Banner](new-banner.png)
+![FAO Banner](banner.png)
 
 Welcome to the official public GitHub account of the Food and Agriculture Organization of the United Nations (FAO).
 
